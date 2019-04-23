@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+.TaskItem {
+  display: flex;
+
+}
+.ListHead > h3{
+  background-color: grey;
+}
